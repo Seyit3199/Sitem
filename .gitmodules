@@ -1,0 +1,3 @@
+[submodule "cdn"]
+	path = cdn.jsdelivr.net
+	url = https://github.com/Seyit3199/Sitem/cdn.jsdelivr.net
